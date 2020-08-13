@@ -10,12 +10,12 @@
 ## Google Chrome
 Работает только на компьютере.
 
-Устанавливается из магазина расширений (Chrome Store): https://chrome.google.com/webstore/detail/metabot-for-vk/acgefjapmijamoiiibpgfdamhjkomjao
+Устанавливается из магазина расширений (Chrome Store): https://chrome.google.com/webstore/detail/metabot-for-vk/aepdkgpgnpbhomffmpcljdphbbhfoekc
 
 ## Яндекс.Браузер
 Работает на компьютере и на смартфонах Android.
 
-Устанавливается из магазина расширений (Chrome Store): https://chrome.google.com/webstore/detail/metabot-for-vk/acgefjapmijamoiiibpgfdamhjkomjao
+Устанавливается из магазина расширений (Chrome Store): https://chrome.google.com/webstore/detail/metabot-for-vk/aepdkgpgnpbhomffmpcljdphbbhfoekc
 
 ## Opera
 Работает только на компьютере.
@@ -25,7 +25,7 @@
 1. [[Скачиваем и устанавливаем](https://www.opera.com/download) браузер Opera, если он ещё не установлен]
 2. Запускаем браузер Opera
 3. Устанавливаем расширение [Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)
-4. Заходим на страницу [расширения Metabot for VK](https://chrome.google.com/webstore/detail/metabot-for-vk/acgefjapmijamoiiibpgfdamhjkomjao) в магазине расширений для Chrome
+4. Заходим на страницу [расширения Metabot for VK](https://chrome.google.com/webstore/detail/metabot-for-vk/aepdkgpgnpbhomffmpcljdphbbhfoekc) в магазине расширений для Chrome
 5. Нажимаем Add to Opera
 6. Нажимаем OK в ответ на "Install Chrome Extensions: To complete installation, go to extensions manager and confirm installation by clicking install button."
 7. На открывшейся новой вкладке с расширениями (Extensions):
